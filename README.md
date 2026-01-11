@@ -79,7 +79,7 @@ The homepage features:
 ```jsx
 Hi, I'm Divyansh Gupta  
 Computer Science Student at VIT Chennai  
-Currently seeking internship opportunities for Summer 2025
+Currently seeking internship opportunities for Summer 2026
 ```
 
 🔗 Social & Contact
